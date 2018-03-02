@@ -1,0 +1,13 @@
+[ 작성하시지 않으시려면 '종료'를 눌러주세요 ]
+
+* This content will be posted to Developer by e-mail *
+ (이 내용은 개발자에게 e-mail로 전송됩니다.)
+
+* Error Message Log
+----------------------
+
+Error : Class = Dir_Manager,Delete_dir:, Content = Word is not empty dir 
+
+----------------------
+
+* 사용자 의견(개발에 참고가 됩니다. 자유롭게 작성해주세요 :) : 
